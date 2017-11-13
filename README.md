@@ -1,5 +1,3 @@
-[![MEAN.JS Logo](http://meanjs.org/img/logo-small.png)]( )
-
 Code Snippets is a website to share code snippets.
 
 ## Before You Begin
